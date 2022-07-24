@@ -1,0 +1,44 @@
+{
+    "name": "l5a5a-esponsales-kyotei",
+    "title": "L5A5E Esponsales en el castillo Kyotei",
+    "description": "Traducción del módulo L5A5E Esponsales en el castillo Kyotei, realizada a partir del world de edge y el documento oficial de FantasyFlightGames España.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Nisube",
+    "packs": [
+        {
+            "type": "Scene",
+            "label": "Escenas (l5r5e Kyotei)",
+            "module": "l5a5a-esponsales-kyotei",
+            "path": "packs/world-escenas-l5r5e-kyotei-1658664587710.db",
+            "name": "world-escenas-l5r5e-kyotei-1658664587710"
+        },
+        {
+            "type": "Actor",
+            "label": "Actores (l5r5e Kyotei)",
+            "module": "l5a5a-esponsales-kyotei",
+            "path": "packs/world-actores-l5r5e-kyotei-1658664587710.db",
+            "name": "world-actores-l5r5e-kyotei-1658664587710"
+        },
+        {
+            "type": "JournalEntry",
+            "label": "Diario (l5r5e Kyotei)",
+            "module": "l5a5a-esponsales-kyotei",
+            "path": "packs/world-diario-l5r5e-kyotei-1658664587710.db",
+            "name": "world-diario-l5r5e-kyotei-1658664587710"
+        },
+        {
+            "type": "Item",
+            "label": "Items (l5r5e Kyotei)",
+            "module": "l5a5a-esponsales-kyotei",
+            "path": "packs/world-items-l5r5e-kyotei-1658664587710.db",
+            "name": "world-items-l5r5e-kyotei-1658664587710"
+        }
+    ],
+	"url": "https://github.com/Nisube/l5a5e-esponsales-kyotei",
+    "manifest": "http://localhost:30000/compendium2module/l5a5a-esponsales-kyotei/module.json",
+    "download": "http://localhost:30000/compendium2module/l5a5a-esponsales-kyotei/module-zip.txt"
+}
