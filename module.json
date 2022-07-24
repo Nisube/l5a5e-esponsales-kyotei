@@ -39,6 +39,6 @@
         }
     ],
 	"url": "https://github.com/Nisube/l5a5e-esponsales-kyotei",
-    "manifest": "http://localhost:30000/compendium2module/l5a5a-esponsales-kyotei/module.json",
-    "download": "http://localhost:30000/compendium2module/l5a5a-esponsales-kyotei/module-zip.txt"
+    "manifest": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.1.0/module.json",
+    "download": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.1.0/l5a5a-esponsales-kyotei.zip"
 }
