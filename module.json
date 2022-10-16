@@ -2,12 +2,15 @@
     "name": "l5a5a-esponsales-kyotei",
     "title": "L5A5E Esponsales en el castillo Kyotei",
     "description": "Traducción del módulo L5A5E Esponsales en el castillo Kyotei, realizada a partir del world de edge y el documento oficial de FantasyFlightGames España.",
-    "version": "1.1.1",
+    "version": "1.10.0",
     "library": "false",
-    "manifestPlusVersion": "1.1.1",
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
-    "author": "Nisube",
+    "manifestPlusVersion": "1.10.0",
+    "authors": [
+		{
+		  "name": "Nisube",
+		  "flags": {}
+		}
+	],
     "packs": [
         {
             "type": "Scene",
@@ -21,7 +24,8 @@
             "label": "Actores (l5r5e Kyotei)",
             "module": "l5a5a-esponsales-kyotei",
             "path": "packs/world-actores-l5r5e-kyotei-1660058228128.db",
-            "name": "world-actores-l5r5e-kyotei-1660058228128"
+            "name": "world-actores-l5r5e-kyotei-1660058228128",
+			"system": "l5r5e"
         },
         {
             "type": "JournalEntry",
@@ -35,10 +39,15 @@
             "label": "Items (l5r5e Kyotei)",
             "module": "l5a5a-esponsales-kyotei",
             "path": "packs/world-items-l5r5e-kyotei-1660058228128.db",
-            "name": "world-items-l5r5e-kyotei-1660058228128"
+            "name": "world-items-l5r5e-kyotei-1660058228128",
+			"system": "l5r5e"
         }
     ],
+	"compatibility": {
+		"minimum": "10",
+		"verified": "10"
+	},
 	"url": "https://github.com/Nisube/l5a5e-esponsales-kyotei",
-    "manifest": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.1.1/module.json",
-    "download": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.1.1/l5a5a-esponsales-kyotei.zip"
+    "manifest": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.10.0/module.json",
+    "download": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.10.0/l5a5a-esponsales-kyotei.zip"
 }
