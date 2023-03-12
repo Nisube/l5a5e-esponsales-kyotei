@@ -2,8 +2,6 @@ Traducción del módulo gratuito "Esponsales en el castillo Kyotei" para el JdR 
 
 Basado en el world gratuito facilitado por Edge, pero disponible originalmente sólo en inglés y francés. Se trata de una traducción de ese mundo gratuito mediante el PDF facilitado por fantasyflightgames en castellano, "Esponsales en el castillo Kyotei", aventura gratuita de las Gencon de 2018, disponible en:
 
-*IMPORTANTE*: Tras intentar dirigir la aventura por segunda vez y reinstalar el módulo, me he percatado de un error en la definición de tokens. Las imágenes de los tokens se esperan en el directorio original del world original de foundry. Por lo tanto, hasta que corrija este fallo, necesitaréis instalar el world de kyotei de foundry para que los personajes tengan imágenes en los tokens.
-
 http://www.fantasyflightgames.es/juegos/coleccion/la_leyenda_de_los_cinco_anillos_el_juego_de_rol
 
 Aclaraciones:
