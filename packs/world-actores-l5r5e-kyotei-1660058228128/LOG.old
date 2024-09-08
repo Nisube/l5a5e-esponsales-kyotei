@@ -1,0 +1,8 @@
+2024/09/08-22:40:04.048 22b0 Recovering log #16
+2024/09/08-22:40:04.050 22b0 Delete type=0 #16
+2024/09/08-22:40:04.050 22b0 Delete type=3 #14
+2024/09/08-22:52:57.094 405c Level-0 table #21: started
+2024/09/08-22:52:57.094 405c Level-0 table #21: 0 bytes OK
+2024/09/08-22:52:57.095 405c Delete type=0 #19
+2024/09/08-22:52:57.096 405c Manual compaction at level-0 from '!actors!1jODEt26DNmFeR0f' @ 72057594037927935 : 1 .. '!actors.items!z0NNFUf2LErnu5r3.ykolJB4bWX6XEXqf' @ 0 : 0; will stop at (end)
+2024/09/08-22:52:57.096 405c Manual compaction at level-1 from '!actors!1jODEt26DNmFeR0f' @ 72057594037927935 : 1 .. '!actors.items!z0NNFUf2LErnu5r3.ykolJB4bWX6XEXqf' @ 0 : 0; will stop at (end)

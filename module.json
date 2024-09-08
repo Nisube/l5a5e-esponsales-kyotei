@@ -1,7 +1,7 @@
 {
   "title": "L5A5E Esponsales en el castillo Kyotei",
   "description": "Traducción del módulo L5A5E Esponsales en el castillo Kyotei, realizada a partir del world de edge y el documento oficial de FantasyFlightGames España.",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "authors": [
     {
       "name": "Nisube",
@@ -10,46 +10,32 @@
   ],
   "packs": [
     {
-      "type": "Scene",
-      "label": "Escenas (l5r5e Kyotei)",
-      "path": "packs/world-escenas-l5r5e-kyotei-1660058228128.db",
-      "name": "world-escenas-l5r5e-kyotei-1660058228128",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "type": "Actor",
-      "label": "Actores (l5r5e Kyotei)",
-      "path": "packs/world-actores-l5r5e-kyotei-1660058228128.db",
-      "name": "world-actores-l5r5e-kyotei-1660058228128",
+      "name": "esponsales-en-el-castillo-kyotei",
+      "label": "Esponsales en el Castillo Kyotei",
+      "path": "packs/esponsales-en-el-castillo-kyotei",
+      "type": "Adventure",
       "system": "l5r5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "type": "JournalEntry",
-      "label": "Diario (l5r5e Kyotei)",
-      "path": "packs/world-diario-l5r5e-kyotei-1660058228128.db",
-      "name": "world-diario-l5r5e-kyotei-1660058228128",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "type": "Item",
-      "label": "Items (l5r5e Kyotei)",
-      "path": "packs/world-items-l5r5e-kyotei-1660058228128.db",
-      "name": "world-items-l5r5e-kyotei-1660058228128",
-      "system": "l5r5e",
-      "private": false,
-      "flags": {}
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "12"
   },
   "url": "https://github.com/Nisube/l5a5e-esponsales-kyotei",
-  "manifest": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.12.0/module.json",
-  "download": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.12.0/l5a5a-esponsales-kyotei.zip",
-  "id": "l5a5a-esponsales-kyotei"
+  "manifest": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.13.0/module.json",
+  "download": "https://github.com/Nisube/l5a5e-esponsales-kyotei/releases/download/1.13.0/l5a5a-esponsales-kyotei.zip",
+  "id": "l5a5a-esponsales-kyotei",
+  "relationships": {
+    "systems": [
+      {
+        "id": "l5r5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
 }
